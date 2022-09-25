@@ -4,7 +4,7 @@ hello
 $ whoami
 Chenyu Zhang
 $ which zcysxy
-/NYC/Columbia/zcysxy
+/NYC/Columbia/DSI/zcysxy
 $ exec zcysxy.life
 🛌☕️✍️🍛🍺🕺🛌
 $ exit
