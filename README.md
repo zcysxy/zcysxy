@@ -1,6 +1,6 @@
 ```shell
-$ echo hello
-hello
+$ echo hi
+hi
 $ whoami
 Chenyu Zhang
 $ which zcysxy
