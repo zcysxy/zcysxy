@@ -9,3 +9,4 @@ $ exec zcysxy.life
 🛌☕️✍️🍛🍺🕺🛌
 $ exit
 ```
+[ti$kZ](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note)
