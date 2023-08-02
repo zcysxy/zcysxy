@@ -1,4 +1,4 @@
-```shell
+```zsh
 $ echo hi
 hi
 $ whoami
