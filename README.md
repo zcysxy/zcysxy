@@ -4,10 +4,11 @@ hi
 $ whoami
 Chenyu Zhang
 $ which zcysxy
-/NYC/Columbia/DSI/zcysxy
+/MIT/LIDS&IDSS/zcysxy
 $ history | tail
-/CN/Fudan/Math/zcysxy
-/CN/SZMS/Honor-Physics/zcysxy
+/US/Columbia/DSI/
+/CN/Fudan/Math/
+/CN/SZMS/Honor-Physics/
 $ ls ~/toolbox
 _.py    _.m     _.r     _.lua   _.js   
 _.css   _.html  _.tex   _.md    _.yaml
