@@ -4,7 +4,7 @@ hi
 $ whoami
 Chenyu Zhang
 $ which zcysxy
-/MIT/LIDS&IDSS/zcysxy
+/MIT/{LIDS,IDSS}/zcysxy
 $ history | tail
 /US/Columbia/DSI/
 /CN/Fudan/Math/
