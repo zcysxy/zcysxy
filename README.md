@@ -15,6 +15,7 @@ $ ls ~/toolbox
 _.py    _.m     _.r     _.lua   _.js   
 _.css   _.html  _.tex   _.md    _.yaml
 _.sql   _.sh    .git    .vimrc  .vscode
+$ ln homepage zcysxy.github.io
 $ exec zcysxy.life
 🛌☕️✍️🍛🍺🕺🛌
 $ exit
